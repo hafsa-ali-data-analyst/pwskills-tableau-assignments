@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains Tableau assignments and visualizations completed as part of my PW Skills Data Analytics with Generative AI Course. It focuses on transforming raw datasets into interactive dashboards and generating meaningful business insights using Tableau.
+This repository represents my Tableau learning journey through practical assignments focused on data visualization, dashboard development and analytical storytelling. Each project demonstrates the process of converting raw data into meaningful insights, helping bridge the gap between data analysis and business decision-making.
 
 ## Tools & Technologies Used
 
@@ -12,30 +12,30 @@ This repository contains Tableau assignments and visualizations completed as par
 
 ## Concepts Covered
 
-### Data Preparation
+### Data Exploration & Analysis
 
-* Connected Tableau with Excel and CSV datasets.
-* Prepared and organized data for effective analysis.
+* Explored datasets to identify trends, patterns and key business metrics.
+* Analyzed data from multiple perspectives to uncover actionable insights.
 
-### Data Visualization
+### Interactive Data Visualization
 
-* Created interactive charts and dashboards.
-* Used bar charts, line charts, maps, pie charts and other visual elements.
+* Designed visualizations that simplify complex information and highlight important findings.
+* Used charts, maps and dashboards to communicate data effectively.
 
-### Calculated Fields
+### Calculated Fields & Business Metrics
 
-* Created calculated fields for analysis and reporting.
-* Applied basic calculations to derive meaningful insights.
+* Created calculated fields to derive meaningful KPIs and support deeper analysis.
+* Applied logical calculations to answer business-focused questions.
 
-### Filters & Interactivity
+### Dashboard Interactivity
 
-* Implemented filters, parameters and interactive dashboard features.
-* Improved user experience through dynamic visualizations.
+* Implemented filters, parameters and interactive elements to enable dynamic data exploration.
+* Enhanced user engagement by allowing customized views of the data.
 
-### Dashboard Design
+### Data Storytelling & Dashboard Design
 
-* Built visually appealing and user-friendly dashboards.
-* Focused on presenting insights in a clear and structured manner.
+* Structured dashboards to guide users from key metrics to detailed insights.
+* Focused on creating intuitive and visually appealing reports that support decision-making.
 
 ## Assignment Tasks
 
@@ -45,10 +45,10 @@ This repository contains Tableau assignments and visualizations completed as par
 
 ## Key Learning
 
-* Learned how to build interactive dashboards using Tableau.
-* Improved data visualization and storytelling skills.
-* Developed a better understanding of business-focused data analysis.
-* Gained hands-on experience with dashboard design and reporting.
+* Built interactive dashboards that translate complex datasets into clear and actionable insights.
+* Enhanced data storytelling skills by presenting analytical findings through effective visualizations.
+* Improved proficiency in Tableau features including calculated fields, filters and dashboard interactivity.
+* Developed a stronger understanding of how data visualization supports business analysis and strategic decision-making.
 
 ## How to Use
 
@@ -62,7 +62,7 @@ This repository contains Tableau assignments and visualizations completed as par
 
 **Hafsa Ali**
 
-Data Analyst | Data Analysis & Visualization (Excel, SQL, Python, Power BI, Tableau)
+Data Analyst | Leveraging Data Analytics, Visualization and Storytelling to Drive Data-Informed Decision Making
 
 Github: https://github.com/hafsa-ali-data-analyst
 
