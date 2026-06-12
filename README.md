@@ -39,9 +39,11 @@ This repository represents my Tableau learning journey through practical assignm
 
 ## Assignment Tasks
 
-* Created dashboards using different datasets provided during the course.
-* Practiced data visualization and storytelling techniques.
-* Applied Tableau concepts to analyze and present business insights.
+* Built interactive Tableau dashboards to analyze business data and communicate insights through compelling visual narratives.
+* Explored and interpreted datasets to identify trends, performance drivers and opportunities for informed decision-making.
+* Leveraged Tableau's analytical capabilities including calculated fields, filters, parameters and dashboard interactivity to enhance   user experience.
+* Transformed raw data into intuitive visual reports that enable stakeholders to understand key metrics and business outcomes.
+* Applied best practices in dashboard design, data storytelling and visual analytics to deliver impactful and user-friendly solutions.
 
 ## Key Learning
 
